@@ -1,0 +1,67 @@
+@media(max-width:911px){
+    .text-content{
+        width: 100%;
+    }
+    .navigtion-wrap .navbar-brand img{
+        height: 3.8125rem;
+    }
+    .navigtion-wrap {
+        text-align: center;
+        background-color: #fff;
+    }
+    .navigtion-wrap .nav-link{
+        line-height: 1.875rem;
+    }
+    .top-banner{
+        padding: 9.375rem 0 9.375rem;
+        text-align: center;
+    }
+    #Testimonials .carousel-item .carousel-caption p{
+        padding: 0;
+    }
+    .newslettar{
+        width: 75%;
+
+    }
+    .newslettar .main-btn{
+        width: 100%;
+        margin-top: 1rem;
+
+    }
+}
+
+
+
+@media(max-width:767px){
+h1{
+    font-size: 1.8rem;
+
+}
+h2{
+    font-size: 2rem;
+    line-height: 2.0625rem;
+}
+.top-banner{
+    padding: 10.875rem 0 9.375rem;
+}
+.story-section{
+    height: auto;
+    padding: 3rem 0;
+}
+#Testimonials .carousel-item{
+    padding: 11rem 3.125rem;
+}
+#footer .footer-link,
+.footer-social a i{
+    padding: 0 0.7rem;
+}
+}
+
+
+
+
+@media(max-width:330px){
+    #Testimonials .carousel-item{
+        padding: 13rem 3.125rem;
+    }
+}
